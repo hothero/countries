@@ -1,6 +1,6 @@
 ---
 CHA:
-  name: Changhua
+  name: 彰化縣
   names:
   - Changhua
   latitude: 24.0716583
@@ -10,13 +10,13 @@ CHA:
   max_latitude: 24.1139398
   max_longitude: 120.6258758
 CYI:
-  name: Chiayi Municipality
+  name: 嘉義市
   names:
   - Chiai
   latitude: 23.4871898
   longitude: 120.4516708
 CYQ:
-  name: Chiayi
+  name: 嘉義縣
   names: Chiayi
   latitude: 23.4518428
   longitude: 120.2554615
@@ -25,7 +25,7 @@ CYQ:
   max_latitude: 23.6359268
   max_longitude: 120.9576495
 HSQ:
-  name: Hsinchu
+  name: 新竹縣
   names: Hsinchu
   latitude: 24.8066493
   longitude: 120.9669257
@@ -34,7 +34,7 @@ HSQ:
   max_latitude: 24.8569956
   max_longitude: 121.0335449
 HSZ:
-  name: Hsinchu Municipality
+  name: 新竹市
   names: Hsinchu Municipality
   latitude: 24.9330791
   longitude: 121.0093188
@@ -43,7 +43,7 @@ HSZ:
   max_latitude: 24.9337171
   max_longitude: 121.0100775
 HUA:
-  name: Hualien
+  name: 花蓮縣
   names:
   - Hualian
   latitude: 23.9499886
@@ -53,7 +53,7 @@ HUA:
   max_latitude: 24.37056
   max_longitude: 121.7714431
 ILA:
-  name: Ilan
+  name: 宜蘭縣
   names: Ilan
   latitude: 24.7021073
   longitude: 121.7377502
@@ -62,13 +62,13 @@ ILA:
   max_latitude: 25.7517095
   max_longitude: 123.4934282
 KEE:
-  name: Keelung Municipality
+  name: 基隆市
   names:
   - Chilung Shih
   latitude: 25.1313701
   longitude: 121.7488675
 KHH:
-  name: Kaohsiung Special Municipality
+  name: 高雄市
   names: Kaohsiung Special Municipality
   latitude: 22.6272784
   longitude: 120.3014353
@@ -76,17 +76,8 @@ KHH:
   min_longitude: 116.7118602
   max_latitude: 23.4717267
   max_longitude: 121.0490147
-KHQ:
-  name: Kaohsiung
-  names: Kaohsiung
-  latitude: 22.6272784
-  longitude: 120.3014353
-  min_latitude: 20.5862202
-  min_longitude: 116.7118602
-  max_latitude: 23.4717267
-  max_longitude: 121.0490147
 MIA:
-  name: Miaoli
+  name: 苗栗縣
   names: Miaoli
   latitude: 24.560159
   longitude: 120.8214265
@@ -95,7 +86,7 @@ MIA:
   max_latitude: 24.741082
   max_longitude: 121.2626344
 NAN:
-  name: Nantou
+  name: 南投縣
   names: Nantou
   latitude: 23.9609981
   longitude: 120.9718638
@@ -104,7 +95,7 @@ NAN:
   max_latitude: 24.2463089
   max_longitude: 121.3494752
 PEN:
-  name: Penghu
+  name: 澎湖縣
   names: Penghu
   latitude: 23.5711899
   longitude: 119.5793157
@@ -113,7 +104,7 @@ PEN:
   max_latitude: 23.775773
   max_longitude: 119.7269552
 PIF:
-  name: Pingtung
+  name: 屏東縣
   names: Pingtung
   latitude: 22.5519759
   longitude: 120.5487597
@@ -122,7 +113,7 @@ PIF:
   max_latitude: 22.8851844
   max_longitude: 120.9042007
 TAO:
-  name: Taoyuan
+  name: 桃園市
   names: Taoyuan
   latitude: 24.9936281
   longitude: 121.3009798
@@ -131,21 +122,12 @@ TAO:
   max_latitude: 25.123137
   max_longitude: 121.4798128
 TNN:
-  name: Tainan Municipality
+  name: 台南市
   names: Tainan Municipality
   latitude: 23.0038497
   longitude: 120.212227
-TNQ:
-  name: Tainan
-  names: Tainan
-  latitude: 22.9998999
-  longitude: 120.2268758
-  min_latitude: 22.8874908
-  min_longitude: 120.0354791
-  max_latitude: 23.4137568
-  max_longitude: 120.6562596
 TPE:
-  name: Taipei Special Municipality
+  name: 台北市
   names: Taipei Special Municipality
   latitude: 25.0329694
   longitude: 121.5654177
@@ -154,7 +136,7 @@ TPE:
   max_latitude: 25.2443731
   max_longitude: 121.7300824
 TPQ:
-  name: Taipei
+  name: 新北市
   names: Taipei
   latitude: 25.0329694
   longitude: 121.5654177
@@ -163,7 +145,7 @@ TPQ:
   max_latitude: 25.2443731
   max_longitude: 121.7300824
 TTT:
-  name: Taitung
+  name: 台東縣
   names:
   - Taidong
   latitude: 22.7972447
@@ -173,21 +155,12 @@ TTT:
   max_latitude: 23.443723
   max_longitude: 121.601229
 TXG:
-  name: Taichung Municipality
+  name: 台中市
   names: Taichung Municipality
   latitude: 24.301983
   longitude: 120.5854674
-TXQ:
-  name: Taichung
-  names: Taichung
-  latitude: 24.1477358
-  longitude: 120.6736482
-  min_latitude: 23.9985086
-  min_longitude: 120.4607975
-  max_latitude: 24.4416976
-  max_longitude: 121.4509512
 YUN:
-  name: Yunlin
+  name: 雲林縣
   names: Yunlin
   latitude: 23.7092033
   longitude: 120.4313373
@@ -195,3 +168,21 @@ YUN:
   min_longitude: 120.132978
   max_latitude: 23.8421451
   max_longitude: 120.7362057
+KMN:
+  name: 金門縣
+  names: Kinmen
+  latitude: 
+  longitude: 
+  min_latitude: 
+  min_longitude: 
+  max_latitude: 
+  max_longitude: 
+LCG:
+  name: 連江縣
+  names: Lienchiang
+  latitude: 
+  longitude: 
+  min_latitude: 
+  min_longitude: 
+  max_latitude: 
+  max_longitude: 
