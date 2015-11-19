@@ -1,0 +1,163 @@
+---
+CWD:
+  name: 中西區
+  names: Central and Western District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+ED:
+  name: 東區
+  names: Eastern District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+SD:
+  name: 南區
+  names: Southern District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+WCD:
+  name: 灣仔區
+  names: Wan Chai District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+KCD:
+  name: 九龍城區
+  names: Kowloon City District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+SSPD:
+  name: 深水埗區
+  names: Shan Shui Po District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+YTMD:
+  name: 油尖旺區
+  names: Yau Tsim Mong District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+WTSD:
+  name: 黃大仙區
+  names: Wong Tai Sin District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+KTD:
+  name: 觀塘區
+  names: Kwun Tong District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+ND:
+  name: 北區
+  names: North District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+SKD:
+  name: 西貢區
+  names: Sai Kung District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+STD:
+  name: 沙田區
+  names: Sha Tin District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+TPD:
+  name: 大埔區
+  names: Tai Po District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+ID:
+  name: 離島區
+  names: Islands District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+TWD:
+  name: 荃灣區
+  names: Tsuen Wan District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+KTD:
+  name: 葵青區
+  names: Kwai Tsing District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+TMD:
+  name: 屯門區
+  names: Tuen Mun District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
+YLD:
+  name: 元朗區
+  names: Yuen Long District
+  latitude:
+  longitude:
+  min_latitude:
+  min_longitude:
+  max_latitude:
+  max_longitude:
